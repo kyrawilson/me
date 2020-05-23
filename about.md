@@ -4,43 +4,10 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a research assistant in the Neurolinguistics of Language Lab at NYU Abu Dhabi under Drs. Liina Liina Pylkkänen and Alec Marantz. I graduated from Carleton College in 2020 with degrees in Linguistics and Computer Science and a minor in Dance. My research interests are syntax and morphology, language documentation and preservation, and language acquisition. When I am not thinking about language, I'm solving/writing crosswords (or trying to), baking, dancing, or watching animal videos. </p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-<h2>Skills</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
+<h2>Crosswords</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>"Wing Leader" (with Sophia Maymudes) // April 4, 2020 // Universal</li>
 </ul>
