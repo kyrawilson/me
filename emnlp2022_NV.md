@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Contextual Embeddings Can Distinguish Homonymy from Polysemy in a Human-Like Way
+title: Contextual Embeddings
 permalink: /emnlp2022_NV/
 ---
 
 ## Contextual Embeddings Can Distinguish Homonymy from Polysemy in a Human-Like Way
+
+### WiNLP 2022
 
 tl;dr: We devise a method to quantify homonymy and polysemy using only contextual embeddings from BERT, and show that these measures predict human behavior by replicating the "ambiguity advantage".
 
