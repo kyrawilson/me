@@ -12,4 +12,6 @@ tl;dr: We devise a method to quantify homonymy and polysemy using only contextua
 
 [Poster PDF]({{site.url}}/assets/emnlp2022_NV/sleepy_stella.png)
 
+[Poster Presentation Text]({{site.url}}/assets/emnlp2022_NV/WiNLP 2022 NV Script.pdf)
+
 [Code](https://github.com/kyrawilson/word-senses-from-CWE)
