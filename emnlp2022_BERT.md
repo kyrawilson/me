@@ -12,4 +12,6 @@ tl;dr: We compare BERT's performance to humans' in extracting information from g
 
 [Poster PDF]({{site.url}}/assets/emnlp2022_BERT/happy_stella.png)
 
+[Poster Presentation Text]({{site.url}}/assets/emnlp2022_BERT/GardenBERT WiNLP Script.pdf)
+
 [Code](https://github.com/tovahs)
