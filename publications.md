@@ -32,9 +32,3 @@ Fourtassi, A., Wilson, K. & Frank, M., C. Discovering Conceptual Hierarchy Throu
 
 Fortin, C. & Wilson, K. DP Structure in Dakota (Poster). Workshop on Structure and Constituency of Languages of the Americas. 2019.
 Wilson, K. Deriving 'Yute' and 'Wote' in Dakota (Poster). 12th Annual Toronto Undergraduate Linguistics Conference.  2019. (Invited)
-
-[Poster PDF]({{site.url}}/assets/emnlp2022_NV/NV WiNLP Poster Portrait (2).pdf)
-
-[Poster Presentation Text]({{site.url}}/assets/emnlp2022_NV/WiNLP 2022 NV Script.pdf)
-
-[Code](https://github.com/kyrawilson/word-senses-from-CWE)
