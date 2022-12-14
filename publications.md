@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contextual Embeddings
+title: Publications
 permalink: /publications/
 ---
 
