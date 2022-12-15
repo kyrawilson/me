@@ -10,7 +10,7 @@ permalink: /icnlsp2022_NV/
 
 tl;dr: We devise a method to quantify homonymy and polysemy using only contextual embeddings from BERT, and show that these measures predict human behavior by replicating the "ambiguity advantage".
 
-[Presentation Slides]({{site.url}}/assets/emnlp2022_NV/WiNLP 2022 NV Script.pdf)
+[Presentation Slides]({{site.url}}/assets/ICNLSP NV Presentation.pptx)
 
 [Code](https://github.com/kyrawilson/word-senses-from-CWE)
 
