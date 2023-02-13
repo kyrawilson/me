@@ -14,4 +14,4 @@ tl;dr: We devise a method to quantify homonymy and polysemy using only contextua
 
 [Code](https://github.com/kyrawilson/word-senses-from-CWE)
 
-Link to paper coming soon!
+[Paper]([https://github.com/kyrawilson/word-senses-from-CWE](https://aclanthology.org/2022.icnlsp-1.17/))
