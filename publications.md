@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### Under Review
 
-* __Wilson, K.__, Frank, M., C. & Fourtassi, A. Conceptual Hierarchy in Child-Directed Speech. (Under review).
+* __Wilson, K.__, Frank, M., C. & Fourtassi, A. Conceptual Hierarchy in Child-Directed Speech. (In press).
 * Fortin, C. & __Wilson, K__. DP Structure in Dakota. _Proceedings of the Workshop on Structure and Constituency in the Languages of the Americas 24_. (In press). 
 
 ### 2022
