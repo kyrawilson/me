@@ -41,5 +41,14 @@
                 </li>
             {% endif %}
         {% endif %}
+
+        {% if site.miscellany == true %}
+            {% if page.title != "Mlog" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/miscellany">Miscellany</a>
+                </li>
+            {% endif %}
+        {% endif %}
+        
     </ul>
 </nav>
