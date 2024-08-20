@@ -1,6 +1,6 @@
 # main text of home
 name: Kyra Wilson
-bio: Linguistics, Computer Science, Dance, Crosswords, Dogs, Succulents, and Baking
+bio: Second year PhD student at the University of Washington Information School
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -75,7 +75,7 @@ width: normal
 projects: false
 
 # if you don't need projects, comment the *publications* configs below
-publications: true
+publications: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
