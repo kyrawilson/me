@@ -77,6 +77,9 @@ projects: false
 # if you don't need projects, comment the *publications* configs below
 publications: false
 
+# if you don't need miscellany, comment the *publications* configs below
+miscellany: true
+
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
