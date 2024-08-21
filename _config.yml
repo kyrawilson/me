@@ -14,7 +14,7 @@ picture: assets/Kyra picture square.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: assets/Kyra Wilson Resume.pdf
+resume-url: https://kyrawilson.notion.site/Curriculum-Vitae-1b111dd313f640cf8bdd9e3cb2acef04?pvs=4
 
 url: http://kyrawilson.github.io/me
 # your url: http://USERNAME.github.io
