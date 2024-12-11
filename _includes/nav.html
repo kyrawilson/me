@@ -27,6 +27,12 @@
                 <a class="link" target="_blank" rel="noopener noreferrer" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">CV</a>
             </li>
         {% endif %}
+
+        {% if site.press == true %}
+            <li class="item">
+                <a class="link" target="_blank" rel="noopener noreferrer" href="{% if site.press-external %}{{ site.press-url }}{% else %}{{ site.url }}/{{ site.press-url }}{% endif %}">Press</a>
+            </li>
+        {% endif %}
         
         {% if site.publications == true %}
             <li class="item">
