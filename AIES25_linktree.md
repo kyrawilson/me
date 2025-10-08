@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contextual Embeddings
+title: AIES 2025
 permalink: /AIES25_linktree/
 ---
 
