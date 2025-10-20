@@ -24,11 +24,15 @@ permalink: /AIES25_linktree/
 <h2 style="margin-top: 0px; padding-top: 0px">No Thoughts Just AI: Biased LLM Hiring Recommendations Alter Human Decision Making and Limit Human Autonomy</h2>
 
 <details>
+<summary>Show TL;DR</summary>
+    <p>TL;DR goes here</p>
+</details>
+
+<details>
 <summary>Show Links</summary>
-tl;dr:
 <br>
-<iframe src="https://www.arxiv.org/pdf/2509.04404" title="Preprint"></iframe>
-<button onclick="window.location.href='https://bing.com';">Preprint</button>
+<iframe src="https://www.arxiv.org/pdf/2509.04404" title="Preprint"></iframe><br>
+<button onclick="window.location.href='https://bing.com';">Preprint</button><br>
 <button onclick="window.location.href='https://bing.com';">Slides</button>
 <button onclick="window.location.href='https://bing.com';">Code/Data Repo</button>
 
