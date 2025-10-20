@@ -5,10 +5,8 @@ permalink: /AIES25_linktree/
 ---
 
 <div style="border-radius: 25px;
-  background-color: #73AD21;
-  padding: 20px;
-  width: 200px;
-  height: 150px;">
+  border: 2px solid #73AD21;
+  padding: 20px;">
 
 ## Let's Connect! ##
 
