@@ -56,7 +56,7 @@ permalink: /AIES25_linktree/
 <details>
 <summary>Links</summary>
 <br>
-<iframe src="https://arxiv.org/pdf/2508.17465" title="Preprint"></iframe><br>
+<iframe src="https://arxiv.org/pdf/2508.17465#view=FitH" style="width: 60%; height: 50vh" title="Preprint"></iframe><br>
 <button onclick="window.location.href='https://arxiv.org/pdf/2508.17465';">Preprint</button><br><br>
 <iframe src="https://kyrawilson.github.io/me/assets/AIES 2025 SD.pdf#view=FitH" style="width: 60%; height: 50vh" title="Poster"></iframe><br>
 <button onclick="window.location.href='https://kyrawilson.github.io/me/assets/AIES 2025 SD.pdf';">Poster</button><br><br>
@@ -80,10 +80,10 @@ permalink: /AIES25_linktree/
 <details>
 <summary>Links</summary>
 <br>
-<iframe src="https://arxiv.org/pdf/2508.11067" title="Preprint"></iframe><br>
+<iframe src="https://arxiv.org/pdf/2508.11067#view=FitH" style="width: 60%; height: 50vh" title="Preprint"></iframe><br>
 <button onclick="window.location.href='https://arxiv.org/pdf/2508.11067';">Preprint</button><br><br>
-<iframe src="https://kyrawilson.github.io/me/404" title="Poster"></iframe><br>
-<button onclick="window.location.href='https://kyrawilson.github.io/me/404';">Poster</button><br><br>
+<iframe src="https://kyrawilson.github.io/me/assets/aies25_litreview.pdf#view=FitH" style="width: 60%; height: 50vh" title="Poster"></iframe><br>
+<button onclick="window.location.href='https://kyrawilson.github.io/me/assets/aies25_litreview.pdf';">Poster</button><br><br>
 
 </details>
 </div>
