@@ -15,6 +15,9 @@ permalink: /AIES25_linktree/
 <button onclick="window.location.href='https://www.linkedin.com/in/kyra-wilson/';">Add Me on LinkedIn</button>
 </div>
 
+<br>
+<br>
+
 <div style="border-radius: 25px;
   border: 2px solid #c5b4e3;
   padding: 20px; text-align: center;">
@@ -24,8 +27,9 @@ permalink: /AIES25_linktree/
 <summary>Show Links</summary>
 tl;dr:
 <br>
-<button onclick="window.location.href='https://bing.com';">Preprint</button><br>
-<button onclick="window.location.href='https://bing.com';">Slides</button><br>
+<iframe src="https://www.arxiv.org/pdf/2509.04404" title="Preprint"></iframe>
+<button onclick="window.location.href='https://bing.com';">Preprint</button>
+<button onclick="window.location.href='https://bing.com';">Slides</button>
 <button onclick="window.location.href='https://bing.com';">Code/Data Repo</button>
 
 </details>
