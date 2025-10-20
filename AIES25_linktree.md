@@ -15,10 +15,13 @@ permalink: /AIES25_linktree/
 <button onclick="window.location.href='https://www.linkedin.com/in/kyra-wilson/';">Add Me on LinkedIn</button>
 </div>
 
+<div style="border-radius: 25px;
+  border: 2px solid #c5b4e3;
+  padding: 20px; text-align: center;">
+<h2 style="margin-top: 0px; padding-top: 0px">No Thoughts Just AI: Biased LLM Hiring Recommendations Alter Human Decision Making and Limit Human Autonomy</h2>
+
 <details>
-<summary><h2 style="margin-top: 0px; padding-top: 0px">No Thoughts Just AI: Biased LLM Hiring Recommendations Alter Human Decision Making and Limit Human Autonomy</h2></summary>
-
-
+<summary>Show Links</summary>
 tl;dr:
 <br>
 <button onclick="window.location.href='https://bing.com';">Preprint</button><br>
@@ -26,6 +29,7 @@ tl;dr:
 <button onclick="window.location.href='https://bing.com';">Code/Data Repo</button>
 
 </details>
+</div>
 
 <details>
 <summary><h2 style="margin-top: 0px; padding-top: 0px">Bias Amplification in Stable Diffusion's Representation of Stigma Through Skin Tones and Their Homogeneity</h2></summary>
