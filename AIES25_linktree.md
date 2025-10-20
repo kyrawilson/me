@@ -29,9 +29,9 @@ permalink: /AIES25_linktree/
 <summary>Show Links</summary>
 <br>
 <iframe src="https://www.arxiv.org/pdf/2509.04404" title="Preprint"></iframe><br>
-<button onclick="window.location.href='https://bing.com';">Preprint</button><br>
+<button onclick="window.location.href='https://bing.com';">Preprint</button><br><br>
 <iframe src="https://kyrawilson.github.io/me/404" title="Preprint"></iframe><br>
-<button onclick="window.location.href='https://kyrawilson.github.io/me/404';">Slides</button>
+<button onclick="window.location.href='https://kyrawilson.github.io/me/404';">Slides</button><br><br>
 <iframe src="https://kyrawilson.github.io/me/404" title="Preprint"></iframe><br>
 <button onclick="window.location.href='https://kyrawilson.github.io/me/404';">Code/Data Repo</button>
 
