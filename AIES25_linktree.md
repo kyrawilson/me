@@ -28,7 +28,7 @@ permalink: /AIES25_linktree/
 <details>
 <summary>Show Links</summary>
 <br>
-<iframe src="https://www.arxiv.org/pdf/2509.04404#view=FitH" style="width: 100%; height: 100vh" title="Preprint"></iframe><br>
+<iframe src="https://www.arxiv.org/pdf/2509.04404#view=FitH" style="width: 30%; height: 100vh" title="Preprint"></iframe><br>
 <button onclick="window.location.href='https://www.arxiv.org/pdf/2509.04404';">Preprint</button><br><br>
 <iframe src="https://kyrawilson.github.io/me/404" title="Slides"></iframe><br>
 <button onclick="window.location.href='https://kyrawilson.github.io/me/404';">Slides</button><br><br>
