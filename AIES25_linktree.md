@@ -10,9 +10,9 @@ permalink: /AIES25_linktree/
 
 <h2>Let's Connect!</h2>
 
-<button onclick="window.location.href='https://bing.com';">Send Me an Email</button>
-<button onclick="window.location.href='https://bing.com';">Follow Me on Bluesky</button>
-<button onclick="window.location.href='https://bing.com';">Add Me on LinkedIn</button>
+<button onclick="window.location.href='mailto:kywi@uw.com';">Send Me an Email</button>
+<button onclick="window.location.href='https://bsky.app/profile/kyrawilson.bsky.social';">Follow Me on Bluesky</button>
+<button onclick="window.location.href='https://www.linkedin.com/in/kyra-wilson/';">Add Me on LinkedIn</button>
 </div>
 
 <details>
