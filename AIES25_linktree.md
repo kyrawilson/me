@@ -13,10 +13,7 @@ permalink: /AIES25_linktree/
 <button onclick="window.location.href='mailto:kywi@uw.com';">Send Me an Email</button>
 <button onclick="window.location.href='https://bsky.app/profile/kyrawilson.bsky.social';">Follow Me on Bluesky</button>
 <button onclick="window.location.href='https://www.linkedin.com/in/kyra-wilson/';">Add Me on LinkedIn</button>
-</div>
-
-<br>
-<br>
+</div><br>
 
 <div style="border-radius: 25px;
   border: 2px solid #c5b4e3;
@@ -33,8 +30,10 @@ permalink: /AIES25_linktree/
 <br>
 <iframe src="https://www.arxiv.org/pdf/2509.04404" title="Preprint"></iframe><br>
 <button onclick="window.location.href='https://bing.com';">Preprint</button><br>
-<button onclick="window.location.href='https://bing.com';">Slides</button>
-<button onclick="window.location.href='https://bing.com';">Code/Data Repo</button>
+<iframe src="https://kyrawilson.github.io/me/404" title="Preprint"></iframe><br>
+<button onclick="window.location.href='https://kyrawilson.github.io/me/404';">Slides</button>
+<iframe src="https://kyrawilson.github.io/me/404" title="Preprint"></iframe><br>
+<button onclick="window.location.href='https://kyrawilson.github.io/me/404';">Code/Data Repo</button>
 
 </details>
 </div>
