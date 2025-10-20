@@ -8,7 +8,7 @@ permalink: /AIES25_linktree/
   border: 2px solid #73AD21;
   padding: 20px;">
 
-## Let's Connect! ##
+<h2>Let's Connect</h2>
 
 <button onclick="window.location.href='https://bing.com';">Send Me an Email</button>
 <button onclick="window.location.href='https://bing.com';">Follow Me on Bluesky</button>
