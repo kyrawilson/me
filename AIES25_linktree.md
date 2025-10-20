@@ -4,13 +4,14 @@ title: AIES 2025
 permalink: /AIES25_linktree/
 ---
 
-## Let's Connect! ##
-
-<div border-radius: 25px;
+<div style="border-radius: 25px;
   background-color: #73AD21;
   padding: 20px;
   width: 200px;
-  height: 150px;>
+  height: 150px;">
+
+## Let's Connect! ##
+
 <button onclick="window.location.href='https://bing.com';">Send Me an Email</button>
 <button onclick="window.location.href='https://bing.com';">Follow Me on Bluesky</button>
 <button onclick="window.location.href='https://bing.com';">Add Me on LinkedIn</button>
