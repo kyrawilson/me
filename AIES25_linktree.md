@@ -34,7 +34,7 @@ permalink: /AIES25_linktree/
 <button onclick="window.location.href='https://www.arxiv.org/pdf/2509.04404';">Preprint</button><br><br>
 <iframe src="https://kyrawilson.github.io/me/404" title="Slides"></iframe><br>
 <button onclick="window.location.href='https://kyrawilson.github.io/me/404';">Slides</button><br><br>
-<iframe src="https://github.com/kyrawilson/No-Thoughts-Just-AI" title="Code/Data Repo"></iframe><br>
+<iframe src="https://github.com/kyrawilson/No-Thoughts-Just-AI/blob/main/README.md" title="Code/Data Repo"></iframe><br>
 <button onclick="window.location.href='https://github.com/kyrawilson/No-Thoughts-Just-AI';">Code/Data Repo</button>
 
 </details>
