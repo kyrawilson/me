@@ -5,10 +5,10 @@ permalink: /AIES25_linktree/
 ---
 
 <div style="border-radius: 25px;
-  border: 2px solid #73AD21;
-  padding: 20px;">
+  border: 2px solid #4b2e83;
+  padding: 20px; text-align: center;">
 
-<h2>Let's Connect</h2>
+<h2>Let's Connect!</h2>
 
 <button onclick="window.location.href='https://bing.com';">Send Me an Email</button>
 <button onclick="window.location.href='https://bing.com';">Follow Me on Bluesky</button>
