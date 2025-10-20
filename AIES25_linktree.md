@@ -6,8 +6,15 @@ permalink: /AIES25_linktree/
 
 ## Let's Connect! ##
 
+<div border-radius: 25px;
+  background-color: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 150px;>
 <button onclick="window.location.href='https://bing.com';">Send Me an Email</button>
+<button onclick="window.location.href='https://bing.com';">Follow Me on Bluesky</button>
 <button onclick="window.location.href='https://bing.com';">Add Me on LinkedIn</button>
+</div>
 
 <details>
 <summary><h2 style="margin-top: 0px; padding-top: 0px">No Thoughts Just AI: Biased LLM Hiring Recommendations Alter Human Decision Making and Limit Human Autonomy</h2></summary>
