@@ -32,7 +32,7 @@ permalink: /AIES25_linktree/
 <br>
 <iframe src="https://www.arxiv.org/pdf/2509.04404#view=FitH" style="width: 60%; height: 50vh" title="Preprint"></iframe><br>
 <a href="https://www.arxiv.org/pdf/2509.04404">Preprint</a><br><br>
-<iframe src="https://kyrawilson.github.io/me/assets/AIES25 Hiring Slides.pdf#view=FitH" style="width: 60%; height: 25vh" title="Slides"></iframe><br>
+<iframe src="https://kyrawilson.github.io/me/assets/AIES25 Hiring Slides.pdf#view=FitH" style="width: 60%; height: 22vh" title="Slides"></iframe><br>
 <a href="https://kyrawilson.github.io/me/assets/AIES25 Hiring Slides.pdf">Slides</a><br><br>
 <div style="width: 60%; margin: auto; border: 1px solid #e5e5e5"><svg class='icon icon-github'><use xlink:href='#icon-github'></use></svg><h2>No-Thoughts-Just-AI</h2></div><br>
 <a href="https://github.com/kyrawilson/No-Thoughts-Just-AI">Code/Data repo</a>
