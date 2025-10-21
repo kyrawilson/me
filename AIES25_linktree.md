@@ -81,8 +81,8 @@ permalink: /AIES25_linktree/
 <summary>Links</summary>
 <br>
 <iframe src="https://arxiv.org/pdf/2508.11067#view=FitH" style="width: 60%; height: 50vh" title="Preprint"></iframe><br>
-<button onclick="window.location.href='https://arxiv.org/pdf/2508.11067';">Preprint</button><br><br>
-<iframe src="https://kyrawilson.github.io/me/assets/aies25_litreview.pdf#view=FitH" style="width: 60%; height: 50vh" title="Poster"></iframe><br>
+<a href="https://arxiv.org/pdf/2508.11067">Preprint</a><br><br>
+<iframe src="https://kyrawilson.github.io/me/assets/aies25_litreview.pdf" onload='javascript:(function(o){o.style.height=o.contentWindow.document.body.scrollHeight+"px";}(this));' style="height:200px;width:60%;border:none;overflow:hidden;" title="Poster"></iframe><br>
 <button onclick="window.location.href='https://kyrawilson.github.io/me/assets/aies25_litreview.pdf';">Poster</button><br><br>
 
 </details>
