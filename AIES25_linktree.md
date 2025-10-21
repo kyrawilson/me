@@ -35,7 +35,7 @@ permalink: /AIES25_linktree/
 <iframe src="https://kyrawilson.github.io/me/assets/AIES25 Hiring Slides.pdf#view=FitH" style="width: 60%; height: 22vh" title="Slides"></iframe><br>
 <a href="https://kyrawilson.github.io/me/assets/AIES25 Hiring Slides.pdf">Slides</a><br><br>
 <div style="width: 60%; margin: auto; border: 1px solid #e5e5e5"><svg class='icon icon-github'><use xlink:href='#icon-github'></use></svg><h2>No-Thoughts-Just-AI</h2></div><br>
-<a href="https://github.com/kyrawilson/No-Thoughts-Just-AI/tree/main">Code/Data repo</a>
+<a href="https://github.com/kyrawilson/No-Thoughts-Just-AI/tree/main">Code/Data Repo</a>
 
 </details>
 </div><br>
@@ -57,11 +57,11 @@ permalink: /AIES25_linktree/
 <summary>Links</summary>
 <br>
 <iframe src="https://arxiv.org/pdf/2508.17465#view=FitH" style="width: 60%; height: 50vh" title="Preprint"></iframe><br>
-<button onclick="window.location.href='https://arxiv.org/pdf/2508.17465';">Preprint</button><br><br>
+<a href="https://arxiv.org/pdf/2508.17465">Preprint</a><br><br>
 <iframe src="https://kyrawilson.github.io/me/assets/AIES 2025 SD.pdf#view=FitH" style="width: 60%; height: 52vh" title="Poster"></iframe><br>
-<button onclick="window.location.href='https://kyrawilson.github.io/me/assets/AIES 2025 SD.pdf';">Poster</button><br><br>
+<a href="https://kyrawilson.github.io/me/assets/AIES 2025 SD.pdf">Poster</a><br><br>
 <div style="width: 60%; margin: auto; border: 1px solid #e5e5e5"><svg class='icon icon-github'><use xlink:href='#icon-github'></use></svg><h2>Image-Generation-Bias</h2></div><br>
-<a href="https://github.com/kyrawilson/Image-Generation-Bias/tree/main">Code/Data repo</a>
+<a href="https://github.com/kyrawilson/Image-Generation-Bias/tree/main">Code/Data Repo</a>
 
 </details>
 </div><br>
