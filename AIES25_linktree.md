@@ -24,7 +24,7 @@ permalink: /AIES25_linktree/
 
 <details>
 <summary>TL;DR</summary>
-    <p>Coming Soon!</p>
+    <p>A follow-up to <a href="https://arxiv.org/abs/2407.20371">my AIES 2024 paper</a>, we showed people AI recommendations that had varying levels of racial bias during a resume-screening task and found that (at most) human oversight decreased bias in final outcomes by at most 15.2% which is still far from the outcome bias rates when no AI or unbiased AI was used. A positive note is that when people took an implicit association test (commonly used for anti-bias training) before doing the resume-screening task, they increased their selection of stereotype-incongruent candidates by 12.7% regardless of how biased the AI model they interacted with was.</p>
 </details>
 
 <details>
@@ -50,7 +50,7 @@ permalink: /AIES25_linktree/
 
 <details>
 <summary>TL;DR</summary>
-    <p>Coming soon!</p>
+    <p>We analyzed skin tones in images of 93 stigmatized identities using three versions of Stable Diffusion (SD). We found that the newest model (SD XL) tends to generate images with darker skin tones compared to SD v1.5 and v2.1, but it still over-represents dark skin tones for stigmatized identities compared to non-stigmatized identities. We also found that depictions of racial identities are getting more homogenized with successive releases of SD, reinforcing harmful ideas about what people with stigmatized identities "should" look like.</p>
 </details>
 
 <details>
@@ -74,7 +74,7 @@ permalink: /AIES25_linktree/
 
 <details>
 <summary>TL;DR</summary>
-    <p>Coming soon!</p>
+    <p>We conducted a review of AI bias literature and found that 82% do not provide an explicit definition of bias and 79.9% do not explore bias outside of binary gender bias. This means that only a particular subset of marginalized groups may benefit from AI bias research. We also find that 89.4% of papers don’t provide detailed information about real-world implementation of their findings. Based on this, we made a Fact Sheet that to guide researchers in communicating findings in ways that enable model developers or downstream users to implement them appropriately.</p>
 </details>
 
 <details>
