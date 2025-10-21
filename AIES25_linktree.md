@@ -24,7 +24,7 @@ permalink: /AIES25_linktree/
 
 <details>
 <summary>TL;DR</summary>
-    <p>TL;DR goes here</p>
+    <p>Coming Soon!</p>
 </details>
 
 <details>
@@ -50,7 +50,7 @@ permalink: /AIES25_linktree/
 
 <details>
 <summary>TL;DR</summary>
-    <p>TL;DR goes here</p>
+    <p>Coming soon!</p>
 </details>
 
 <details>
@@ -74,7 +74,7 @@ permalink: /AIES25_linktree/
 
 <details>
 <summary>TL;DR</summary>
-    <p>TL;DR goes here</p>
+    <p>Coming soon!</p>
 </details>
 
 <details>
