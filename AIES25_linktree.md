@@ -83,7 +83,9 @@ permalink: /AIES25_linktree/
 <iframe src="https://arxiv.org/pdf/2508.11067#view=FitH" style="width: 60%; height: 52vh" title="Preprint"></iframe><br>
 <a href="https://arxiv.org/pdf/2508.11067">Preprint</a><br><br>
 <iframe src="https://kyrawilson.github.io/me/assets/aies25_litreview.pdf" style="width: 60%; height: 50vh" title="Poster"></iframe><br>
-<a href="https://kyrawilson.github.io/me/assets/aies25_litreview.pdf">Poster</a>
+<a href="https://kyrawilson.github.io/me/assets/aies25_litreview.pdf">Poster</a><br><br>
+<div style="width: 60%; margin: auto;"><img src="https://sourojitghosh.github.io/images/headshot.png"></div><br>
+<a href="https://sourojitghosh.github.io">Sourojit Ghosh's Webpage</a>
 
 </details>
 </div>
