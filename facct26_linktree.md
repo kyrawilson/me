@@ -89,7 +89,6 @@ permalink: /facct26_linktree/
       src="https://arxiv.org/pdf/2606.22213"
       title="Preview of example.com"
       referrerpolicy="no-referrer"
-      loading="lazy"
     ></iframe>
     <div class="caption">Visit example.com</div>
   </a>
