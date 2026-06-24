@@ -85,9 +85,11 @@ permalink: /facct26_linktree/
       class="frame"
       src="https://arxiv.org/pdf/2606.22213"
       title="Preview of example.com"
-      loading="lazy"
-      referrerpolicy="no-referrer"
-      sandbox="allow-forms allow-popups allow-scripts allow-same-origin"
+        
+        <!-- referrerpolicy="no-referrer" -->
+        <!-- loading="lazy" -->
+        <!-- sandbox="allow-forms allow-popups allow-scripts allow-same-origin" -->
+      
     ></iframe>
     <div class="caption">Visit example.com</div>
   </a>
