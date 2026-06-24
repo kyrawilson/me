@@ -81,15 +81,13 @@ permalink: /facct26_linktree/
 
   <a class="preview-link" href="https://arxiv.org/pdf/2606.22213" target="_blank" rel="noreferrer">
     <!-- The “preview” is live content inside the iframe; no jpg needed. -->
+        <!-- referrerpolicy="no-referrer" -->
+        <!-- loading="lazy" -->
+        <!-- sandbox="allow-forms allow-popups allow-scripts allow-same-origin" -->
     <iframe
       class="frame"
       src="https://arxiv.org/pdf/2606.22213"
       title="Preview of example.com"
-        
-        <!-- referrerpolicy="no-referrer" -->
-        <!-- loading="lazy" -->
-        <!-- sandbox="allow-forms allow-popups allow-scripts allow-same-origin" -->
-      
     ></iframe>
     <div class="caption">Visit example.com</div>
   </a>
