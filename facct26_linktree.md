@@ -37,5 +37,62 @@ permalink: /facct26_linktree/
 <div style="width: 60%; margin: auto; border: 1px solid #e5e5e5"><svg class='icon icon-github'><use xlink:href='#icon-github'></use></svg><h2>No-Thoughts-Just-AI</h2></div><br>
 <a href="https://github.com/kyrawilson/No-Thoughts-Just-AI/tree/main">Code/Data Repo</a>
 
+
+
+<head>
+  <meta charset="utf-8" />
+  <title>Iframe “Static” Preview + Link</title>
+  <style>
+    .preview-link{
+      display: inline-block;
+      text-decoration: none;
+      color: inherit;
+      border: 1px solid #e5e5e5;
+      border-radius: 10px;
+      overflow: hidden;
+      background: #fff;
+      box-shadow: 0 0 0 rgba(0,0,0,0);
+      transition: box-shadow .2s, border-color .2s;
+    }
+
+    .preview-link:hover{
+      border-color: #cfcfcf;
+      box-shadow: 0 8px 24px rgba(0,0,0,.10);
+    }
+
+    .frame{
+      width: 360px;       /* adjust */
+      height: 220px;      /* adjust */
+      border: 0;
+      display: block;
+      background: #f6f6f6;
+    }
+
+    .caption{
+      padding: 10px 12px;
+      font: 600 14px/1.2 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  </style>
+</head>
+<body>
+
+  <a class="preview-link" href="https://arxiv.org/pdf/2606.22213" target="_blank" rel="noreferrer">
+    <!-- The “preview” is live content inside the iframe; no jpg needed. -->
+    <iframe
+      class="frame"
+      src="https://arxiv.org/pdf/2606.22213"
+      title="Preview of example.com"
+      loading="lazy"
+      referrerpolicy="no-referrer"
+      sandbox="allow-forms allow-popups allow-scripts allow-same-origin"
+    ></iframe>
+    <div class="caption">Visit example.com</div>
+  </a>
+
+</body>
+
 </details>
 </div>
