@@ -104,10 +104,10 @@ permalink: /facct26_linktree/
 
   <br>
 
-  <a class="preview-link" href="https://github.com/kyrawilson/Resume-Screening-Fast-and-Slow/README.md" target="_blank" rel="noreferrer">
+  <a class="preview-link" href="https://github.com/kyrawilson/Resume-Screening-Fast-and-Slow/" target="_blank" rel="noreferrer">
     <iframe
       class="frame"
-      src="https://github.com/kyrawilson/Resume-Screening-Fast-and-Slow/README.md"
+      src="https://github.com/kyrawilson/Resume-Screening-Fast-and-Slow/"
       title="Preview of code repository"
       referrerpolicy="no-referrer"
       scrolling="no"
