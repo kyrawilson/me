@@ -89,10 +89,10 @@ permalink: /facct26_linktree/
     <div class="caption">View the paper on arXiv</div>
   </a>
 
-  <a class="preview-link" href="https://kyrawilson.github.io/me/assets/FAccT26 slides.pdf" target="_blank" rel="noreferrer">
+  <a class="preview-link" href="https://kyrawilson.github.io/me/assets/FAccT26 Slides.pdf" target="_blank" rel="noreferrer">
     <iframe
       class="frame"
-      src="https://kyrawilson.github.io/me/assets/FAccT26 slides.pdf"
+      src="https://kyrawilson.github.io/me/assets/FAccT26 Slides.pdf"
       title="Preview of FAccT 2026 slides"
       referrerpolicy="no-referrer"
       scrolling="no"
