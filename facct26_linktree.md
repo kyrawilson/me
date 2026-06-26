@@ -23,12 +23,13 @@ permalink: /facct26_linktree/
 
 
 <details>
-<summary cursor="pointer">TL;DR</summary>
+<summary cursor="pointer" >TL;DR</summary>
     <p>A follow-up to <a href="https://arxiv.org/abs/2407.20371">my AIES 2024 paper</a>, we showed people AI recommendations that had varying levels of racial bias during a resume-screening task and found that (at most) human oversight decreased bias in final outcomes by at most 15.2% which is still far from the outcome bias rates when no AI or unbiased AI was used. A positive note is that when people took an implicit association test (commonly used for anti-bias training) before doing the resume-screening task, they increased their selection of stereotype-incongruent candidates by 12.7% regardless of how biased the AI model they interacted with was.</p>
 </details>
 
 <details>
 <summary cursor="pointer">Links to Detailed Info</summary>
+</details>
 <br>
 
 
@@ -104,10 +105,10 @@ permalink: /facct26_linktree/
 
   <br>
 
-  <a class="preview-link" href="https://github.com/kyrawilson/Resume-Screening-Fast-and-Slow" target="_blank" rel="noreferrer">
+  <a class="preview-link" href="https://github.com/kyrawilson/Resume-Screening-Fast-and-Slow/README.md" target="_blank" rel="noreferrer">
     <iframe
       class="frame"
-      src="https://github.com/kyrawilson/Resume-Screening-Fast-and-Slow"
+      src="https://github.com/kyrawilson/Resume-Screening-Fast-and-Slow/README.md"
       title="Preview of code repository"
       referrerpolicy="no-referrer"
       scrolling="no"
