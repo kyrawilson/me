@@ -30,13 +30,6 @@ permalink: /facct26_linktree/
 <details>
 <summary>Links</summary>
 <br>
-<iframe src="https://www.arxiv.org/pdf/2509.04404#view=FitH" style="width: 60%; height: 50vh" title="Preprint"></iframe><br>
-<a href="https://www.arxiv.org/pdf/2509.04404">Preprint</a><br><br>
-<iframe src="https://kyrawilson.github.io/me/assets/AIES25 Hiring Slides.pdf#view=FitH" style="width: 60%; height: 22vh" title="Slides"></iframe><br>
-<a href="https://kyrawilson.github.io/me/assets/AIES25 Hiring Slides.pdf">Slides</a><br><br>
-<div style="width: 60%; margin: auto; border: 1px solid #e5e5e5"><svg class='icon icon-github'><use xlink:href='#icon-github'></use></svg><h2>No-Thoughts-Just-AI</h2></div><br>
-<a href="https://github.com/kyrawilson/No-Thoughts-Just-AI/tree/main">Code/Data Repo</a>
-
 
 
 <head>
@@ -77,7 +70,9 @@ permalink: /facct26_linktree/
     }
   </style>
 </head>
+
 <body>
+
 
   <a class="preview-link" href="https://arxiv.org/pdf/2606.22213" target="_blank" rel="noreferrer">
     <!-- The “preview” is live content inside the iframe; no jpg needed. -->
@@ -87,10 +82,33 @@ permalink: /facct26_linktree/
     <iframe
       class="frame"
       src="https://arxiv.org/pdf/2606.22213"
-      title="Preview of example.com"
+      title="Preview of arXiv paper"
       referrerpolicy="no-referrer"
+      scrolling="no"
     ></iframe>
-    <div class="caption">Visit example.com</div>
+    <div class="caption">View the paper on arXiv</div>
+  </a>
+
+  <a class="preview-link" href="https://arxiv.org/pdf/2606.22213" target="_blank" rel="noreferrer">
+    <iframe
+      class="frame"
+      src="https://arxiv.org/pdf/2606.22213"
+      title="Preview of FAccT 2026 slides"
+      referrerpolicy="no-referrer"
+      scrolling="no"
+    ></iframe>
+    <div class="caption">View slides from FAccT 2026</div>
+  </a>
+
+  <a class="preview-link" href="https://github.com/kyrawilson/Resume-Screening-Fast-and-Slow" target="_blank" rel="noreferrer">
+    <iframe
+      class="frame"
+      src="https://github.com/kyrawilson/Resume-Screening-Fast-and-Slow"
+      title="Preview of code repository"
+      referrerpolicy="no-referrer"
+      scrolling="no"
+    ></iframe>
+    <div class="caption">View the code/data</div>
   </a>
 
 </body>
