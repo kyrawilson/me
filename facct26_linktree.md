@@ -24,7 +24,8 @@ permalink: /facct26_linktree/
 
 <details>
 <summary style="cursor: pointer">TL;DR</summary>
-    <p>A follow-up to <a href="https://arxiv.org/abs/2407.20371">my AIES 2024 paper</a>, we showed people AI recommendations that had varying levels of racial bias during a resume-screening task and found that (at most) human oversight decreased bias in final outcomes by at most 15.2% which is still far from the outcome bias rates when no AI or unbiased AI was used. A positive note is that when people took an implicit association test (commonly used for anti-bias training) before doing the resume-screening task, they increased their selection of stereotype-incongruent candidates by 12.7% regardless of how biased the AI model they interacted with was.</p>
+    <p>A follow-up to <a href="https://arxiv.org/abs/2509.04404">our AIES 2025 paper</a> in which we showed people AI recommendations that had varying levels of racial bias during a resume-screening task, we looked at how long people spent viewing candidates' resumes in this experiment to determine the effects of AI recommendations on people's decision making strategies. We found that (1) without AI recommendations, people spend up to 55.6% more time viewing candidate resumes; (2) longer resume viewing is associated with significantly lower participant agreement with AI recommendations; and (3) people spend 25.2% more time evaluating white candidates who aren’t recommended for high status jobs. These results can inform model developers and deployers about when it is important for system design to facilitate deeper human engagement in AI decision-making oversight.
+    </p>
 </details>
 
 <details>
