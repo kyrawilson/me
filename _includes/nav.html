@@ -23,9 +23,15 @@
         {% endif %}
 
         {% if site.resume == true %}
-            <li class="item">
+            {% if page.title != "CV" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/CV">CV</a>
+                </li>
+            {% endif %}
+        
+           <!-- <li class="item">
                 <a class="link" target="_blank" rel="noopener noreferrer" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">CV</a>
-            </li>
+            </li>  -->
         {% endif %}
 
         {% if site.press == true %}
