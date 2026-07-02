@@ -19,8 +19,8 @@ resume: true
 # If you want to include your resume, set to true
 # and specify source (external or local).
 press: true
-press-external: true
-press-url: https://kyrawilson.notion.site/Press-132dc147a21e80e6bf13db8f83d78bf9?pvs=4
+#press-external: true
+#press-url: https://kyrawilson.notion.site/Press-132dc147a21e80e6bf13db8f83d78bf9?pvs=4
 
 url: http://kyrawilson.github.io/me
 # your url: http://USERNAME.github.io
