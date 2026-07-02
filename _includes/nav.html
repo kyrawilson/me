@@ -60,6 +60,14 @@
             {% endif %}
         {% endif %}
 
+        {% if site.contact == true %}
+            {% if page.title != "Contact Me" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/Contact Me">Contact Me</a>
+                </li>
+            {% endif %}
+        {% endif %}
+
         {% if site.miscellany == true %}
             {% if page.title != "Miscellany" %}
                 <li class="item">
