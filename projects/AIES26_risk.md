@@ -34,7 +34,7 @@ and Best Practices</h2>
 <iframe src="https://www.arxiv.org/pdf/2509.04404#view=FitH" style="width: 60%; height: 50vh" title="Paper"></iframe><br>
 <a href="https://www.arxiv.org/pdf/2509.04404">Paper (Extended Version)</a><br><br>
 <iframe src="https://kyrawilson.github.io/me/assets/AIES26_risk.pdf#view=FitH" style="width: 60%; height: 52vh" title="Poster"></iframe><br>
-<a href="https://kyrawilson.github.io/me/assets/AIES 2025 SD.pdf">Poster</a><br><br>
+<a href="https://kyrawilson.github.io/me/assets/AIES26_risk.pdf">Poster</a><br><br>
 <div style="width: 60%; margin: auto; border: 1px solid #e5e5e5"><svg class='icon icon-github'><use xlink:href='#icon-github'></use></svg><h2>FairRisk</h2></div><br>
 <a href="https://github.com/kyrawilson/FairRisk/tree/main">Code/Data Repo</a>
 
